@@ -1,5 +1,7 @@
 Thread in UC: https://www.unknowncheats.me/forum/counter-strike-2-a/743326-essentials-external.html
 
+Preview: https://www.youtube.com/watch?v=-wcEuV0vqLA
+
 Architecture
 
 Memory (`Memory/`)
