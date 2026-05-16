@@ -2,6 +2,8 @@ Thread in UC: https://www.unknowncheats.me/forum/counter-strike-2-a/743326-essen
 
 Preview: https://www.youtube.com/watch?v=-wcEuV0vqLA
 
+Discord for any questions: https://discord.gg/vPh3pYcSXk
+
 Architecture
 
 Memory (`Memory/`)
