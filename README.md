@@ -59,3 +59,6 @@ Disclaimer:
 - This project exists purely as a programming exercise. Using memory reading or overlay software in online games violates terms of service and is unfair to other players. This project should never be used in any online game or competitive environment.
 
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/9c277d35-3cf4-49f0-a6da-b61b62e6a110" />
+
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/3624df8d-dcf9-4eaf-befc-3dadd1a3323b" />
+
