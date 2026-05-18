@@ -38,6 +38,8 @@ List of main features:
 - Defusing info
 - Spectator list
 - 2D Radar/minimap
+- Lineup helper
+- Grenade prediction
 - Weapon group specific settings
 - Automatic config creation, saving, loading
 - OBS stream proof
