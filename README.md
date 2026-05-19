@@ -35,14 +35,17 @@ List of main features:
 - Bullet tracers
 - World particles
 - Bomb timer
+- Bomb blast radius
 - Defusing info
 - Spectator list
 - 2D Radar/minimap
 - Lineup helper
 - Grenade prediction
+- Offscreen arrows
 - Weapon group specific settings
 - Automatic config creation, saving, loading
 - OBS stream proof
+And more.
 
 How to update:
 - Download and run a2x dumper while game is running
@@ -63,4 +66,7 @@ Disclaimer:
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/9c277d35-3cf4-49f0-a6da-b61b62e6a110" />
 
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/3624df8d-dcf9-4eaf-befc-3dadd1a3323b" />
+
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/b8f4e1b9-31af-4bde-8f02-e9eade1885da" />
+
 
